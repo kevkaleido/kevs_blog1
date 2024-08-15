@@ -1,26 +1,26 @@
 ---
-title: "My New Blog Post"
-description: "This is a description of my new blog post."
+title: "New Post"
+description: "This is a description of the structure of my posts."
 date: 2024-08-15
-image: "/blog-placeholder-1.jpg"
+image: "https://i.pinimg.com/564x/1c/57/96/1c5796d4298aa4e4091ab683716bad7c.jpg"
 tags: ["blog", "example"]
 ---
 
-# My New Blog Post
+## Blog Post
 
-Welcome to my new blog post! This is where you can start writing your content.
+ This is where I can start writing content.
 
 ## Introduction
 
-Here's where you can introduce your topic.
+Here's where I can introduce my topic.
 
 ## Main Content
 
-This is where the bulk of your blog post content will go. You can use Markdown formatting to structure your post, add emphasis, create lists, and more.
+This is where the bulk of the blog post content will go. I can use Markdown formatting to structure the post, add emphasis, create lists, and more.
 
 ### Subheading
 
-You can use subheadings to organize your content.
+I can use subheadings to organize my content.
 
 - Point 1
 - Point 2
@@ -28,6 +28,5 @@ You can use subheadings to organize your content.
 
 ## Conclusion
 
-Wrap up your blog post with a conclusion.
+Wrap up the blog post with a conclusion.
 
-Feel free to edit this template to fit your needs!

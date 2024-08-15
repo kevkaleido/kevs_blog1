@@ -19,52 +19,34 @@ const { href, title, body } = Astro.props;
 		</p>
 	</a>
 </li>
-
 <style>
 	.link-card {
-		list-style: none;
-		display: flex;
-		padding: 1px;
-		background-color: #e0f7fa; /* Light soothing teal */
-		background-image: none;
-		background-size: 400%;
-		border-radius: 10px;
-		background-position: 100%;
-		transition: background-position 0.6s ease-in-out, box-shadow 0.6s ease-in-out;
-		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Gentle shadow for depth */
+		
 	}
 	.link-card > a {
 		width: 100%;
 		text-decoration: none;
-		line-height: 1.6;
+		line-height: 1.4;
 		padding: calc(1.5rem - 1px);
-		border-radius: 10px;
-		color: #004d40; /* Calming dark teal */
-		background-color: #e0f7fa; /* Light soothing teal */
-		transition: background-color 0.6s ease-in-out, opacity 0.3s ease-in-out;
-		opacity: 0.85;
-	}
-	.link-card > a:hover {
-		background-color: #b2ebf2; /* Slightly brighter on hover */
-		opacity: 1;
+		border-radius: 8px;
+		color: white;
+		background-color: #23262d;
+		opacity: 0.8;
 	}
 	h2 {
 		margin: 0;
-		font-size: 1.5rem;
-		transition: color 0.6s ease-in-out;
-		color: #00796b; /* Calm, cool green */
+		font-size: 1.25rem;
+		transition: color 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 	}
 	p {
-		margin-top: 0.75rem;
+		margin-top: 0.5rem;
 		margin-bottom: 0;
-		color: #004d40; /* Matching body text */
 	}
 	.link-card:is(:hover, :focus-within) {
 		background-position: 0;
-		background-image: linear-gradient(135deg, #e0f7fa, #b2ebf2, #80deea);
-		box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Softer, relaxing glow */
+		background-image: var(--accent-gradient);
 	}
 	.link-card:is(:hover, :focus-within) h2 {
-		color: #004d40; /* Calm green accent on hover */
+		color: rgb(var(--accent-light));
 	}
 </style>
