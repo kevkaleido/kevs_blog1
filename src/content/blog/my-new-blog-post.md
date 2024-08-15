@@ -1,8 +1,9 @@
 ---
 title: "My New Blog Post"
 description: "This is a description of my new blog post."
-pubDate: "Aug 15 2024"
-heroImage: "/blog-placeholder-1.jpg"
+date: 2024-08-15
+image: "/blog-placeholder-1.jpg"
+tags: ["blog", "example"]
 ---
 
 # My New Blog Post
