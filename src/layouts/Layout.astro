@@ -20,7 +20,7 @@ const {
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title>{title} | SOTO</title>
+		<title>{title} | KEV</title>
 		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -42,7 +42,7 @@ const {
 		<meta property="twitter:image" content={image} />
 	</head>
 	<body
-		class="bg-white text-black antialiased dark:bg-dark dark:text-soto-400"
+		class="bg-gradient-to-b from-sky-50 via-white to-teal-50 dark:bg-gradient-to-b dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 text-gray-800 dark:text-gray-300 antialiased"
 	>
 		<div class="mx-auto max-w-3xl px-4 sm:px-6 xl:max-w-4xl xl:px-0">
 			<Header />
@@ -54,10 +54,7 @@ const {
 
 <script is:inline>
 	const theme = (() => {
-		if (
-			typeof localStorage !== "undefined" &&
-			localStorage.getItem("theme")
-		) {
+		if (typeof localStorage !== "undefined" && localStorage.getItem("theme")) {
 			return localStorage.getItem("theme");
 		}
 		if (window.matchMedia("(prefers-color-scheme: dark)").matches) {

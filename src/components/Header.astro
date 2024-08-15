@@ -10,23 +10,35 @@ import LOGO from "./images/logo.png";
       <a href="/">
         <div class="flex items-center justify-between gap-3">
           <img
-            class="rounded-md"
+            class="rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300 ease-in-out"
             src={LOGO.src}
             alt="logo"
             width={36}
             height={36}
           />
-          <div class="hidden px-2 text-2xl font-bold sm:block">
-            SOTO
-          </div>
         </div>
       </a>
     </div>
 
-    <div class="flex items-center text-base leading-5 gap-3">
-      <HeaderLink href="/">Home</HeaderLink>
-      <HeaderLink href="/blog">Blog</HeaderLink>
-      <HeaderLink href="/about">About</HeaderLink>
+    <div class="flex items-center text-base leading-6 gap-6">
+      <HeaderLink
+        href="/"
+        class="text-sky-600 dark:text-sky-400 hover:text-teal-500 transition-colors duration-300"
+      >
+        Home
+      </HeaderLink>
+      <HeaderLink
+        href="/blog"
+        class="text-sky-600 dark:text-sky-400 hover:text-teal-500 transition-colors duration-300"
+      >
+        Blog
+      </HeaderLink>
+      <HeaderLink
+        href="/about"
+        class="text-sky-600 dark:text-sky-400 hover:text-teal-500 transition-colors duration-300"
+      >
+        About
+      </HeaderLink>
       <ThemeIcon />
     </div>
   </nav>

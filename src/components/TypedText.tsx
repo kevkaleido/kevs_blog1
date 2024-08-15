@@ -10,7 +10,7 @@ export default function TypedText({ messages }: { messages: string[] }) {
     const typed = new Typed(el.current, {
       strings: messages,
       typeSpeed: 50,
-      backSpeed: 50,
+      backSpeed: 10,
       loop: true,
     });
 
