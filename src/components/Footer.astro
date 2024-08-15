@@ -2,28 +2,23 @@
 import SocialIcons from "./social/SocialIcons.astro";
 ---
 
-<footer>
-    <div class="mt-16 flex flex-col items-center">
-        <div class="mb-3 flex space-x-4">
-            <SocialIcons icon_type="instagram" />
-            <SocialIcons icon_type="mail" />
-            <SocialIcons icon_type="github" />
-            <SocialIcons icon_type="rss" />
-        </div>
-        <div
-            class="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400"
+<footer class="mt-16 flex flex-col items-center">
+    <div class="mb-6 flex space-x-6">
+        <SocialIcons icon_type="instagram" />
+        <SocialIcons icon_type="mail" />
+        <SocialIcons icon_type="github" />
+    </div>
+    <div class="flex items-center space-x-3 text-sm font-medium">
+        <span class="text-gray-600 dark:text-gray-400 transition-colors duration-300 hover:text-gray-800 dark:hover:text-gray-200">
+            © {new Date().getFullYear()}
+        </span>
+        <span class="text-gray-400 dark:text-gray-600">•</span>
+        <a 
+            href="/" 
+            class="relative group text-gray-600 dark:text-gray-400 transition-colors duration-300 hover:text-gray-800 dark:hover:text-gray-200"
         >
-            <div>{`© ${new Date().getFullYear()}`}</div>
-            <div>{` • `}</div>
-            <a href="/">KEV</a>
-        </div>
-        <div class="mb-8 text-sm text-gray-500 dark:text-gray-400">
-            Powered by{` `}
-            <a class={"underline"} href="https://astro.build">Astro</a>
-            {` `}&{` `}
-            <a class={"underline"} href="https://tailwindcss.com">
-                TailwindCSS
-            </a>
-        </div>
+            KEV
+            <span class="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-blue-500 to-purple-500 transition-all duration-300 group-hover:w-full"></span>
+        </a>
     </div>
 </footer>
