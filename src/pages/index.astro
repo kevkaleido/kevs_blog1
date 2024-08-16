@@ -1,10 +1,25 @@
 ---
 import Greetings from '../components/Greetings.astro'
 import Layout from '../layouts/Layout.astro'
+import { getCollection } from 'astro:content'
+import PostCard from '../components/PostCard.astro'
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+)
 ---
-
-
 
 <Layout title='Home'>
   <Greetings />
+  <section class="mt-16">
+    <h2 class="text-3xl font-bold mb-8 text-center">Latest Blog Posts</h2>
+    <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+      {posts.slice(0, 3).map((post) => <PostCard post={post} />)}
+    </div>
+    <div class="text-center mt-8">
+      <a href="/blog" class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors">
+        View All Posts
+      </a>
+    </div>
+  </section>
 </Layout>
