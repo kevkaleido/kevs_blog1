@@ -6,7 +6,7 @@ import FormattedDate from "./FormattedDate.astro";
 
 <a href={`/blog/${post.slug}`} class="block">
     <article
-        class="mx-auto overflow-hidden bg-white shadow-lg transition-all duration-300 hover:shadow-xl dark:bg-gray-800"
+        class="mx-auto overflow-hidden bg-gradient-to-br from-purple-100 to-indigo-100 dark:from-purple-900 dark:to-indigo-900 rounded-xl border border-gray-200 dark:border-gray-700 shadow-md transition-all duration-300 hover:shadow-xl hover:scale-105"
     >
         <div class="relative">
             <Image
@@ -21,16 +21,16 @@ import FormattedDate from "./FormattedDate.astro";
             </div>
         </div>
         <div class="p-4">
-            <p class="mb-2 text-sm text-gray-600 dark:text-gray-300">{post.data.summary}</p>
+            <p class="mb-2 text-sm text-gray-700 dark:text-gray-300">{post.data.summary}</p>
             <div class="flex items-center justify-between">
-                <span class="text-sm font-medium text-gray-500 dark:text-gray-400">
+                <span class="text-sm font-medium text-gray-600 dark:text-gray-400">
                     <FormattedDate date={post.data.date} />
                 </span>
                 <div class="flex space-x-2">
                     {post.data.tags &&
                         post.data.tags.map((tag: string) => (
                             <span
-                                class="rounded-full bg-gray-100 px-2 py-1 text-xs font-medium text-gray-600 dark:bg-gray-800 dark:text-gray-400"
+                                class="rounded-full bg-purple-200 dark:bg-purple-800 px-2 py-1 text-xs font-medium text-purple-800 dark:text-purple-200"
                             >
                                 {tag}
                             </span>
