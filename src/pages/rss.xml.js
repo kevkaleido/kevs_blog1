@@ -6,7 +6,7 @@ export async function GET() {
   return rss({
     title: 'KEV',
     description: 'Blog posts from Kev',
-    site: '',
+    site: 'https://metomyself.vercel.app/',
     items: posts.map((post) => ({
       title: post.data.title,
       pubDate: post.data.date,
