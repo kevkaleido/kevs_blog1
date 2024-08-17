@@ -61,13 +61,15 @@ const { Content } = await post.render();
 							}
 						</div>
 					</dl>
-					<Image
-						class="rounded-xl w-full max-w-3xl mx-auto"
-						src={post.data.image}
-						alt={post.data.title}
-						width={400}
-						height={100}
-					/>
+					<div class="flex justify-center my-8">
+						<Image
+							class="rounded-xl w-full max-w-md"
+							src={post.data.image}
+							alt={post.data.title}
+							width={400}
+							height={100}
+						/>
+					</div>
 				</div>
 			</header>
 			<div
