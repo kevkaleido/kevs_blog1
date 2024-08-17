@@ -3,7 +3,7 @@ title: "Our Future with Machines, how it all started"
 description: "Reflecting on Ada Lovelace's legacy as the first visionary of AI, and how her early understanding of computational potential continues to shape the future of technology.."
 date: 2024-08-15
 image: "https://i.pinimg.com/564x/77/4a/29/774a29bcbc47e2ef582551145eba93e9.jpg"
-tags: ["Ada Lovelace", "AI", "Computer History", "Ethics", "Future of Work", "Machine Learning", "Innovation",]
+tags: ["Ada Lovelace", "AI", "Computer History", "Ethics", "Machine Learning", "Innovation",]
 ---
 
 # From 19th Century Dreams to 21st Century AI Reality
@@ -24,7 +24,7 @@ Fast forward to 2024: AI isn't just a dream anymore. We've crafted machines that
 
 ### AI and Consciousness
 
- Lovelace never claimed machines would "think" as we do. Still, the more sophisticated AI becomes, the more the question brews on my mind: can machines ever become conscious? If they do, how will we differentiate between their "thoughts" and ours? Could we one day see the emergence of truly sentient AI, capable of original, independent thought? only time has this one to tell
+ Lovelace never claimed machines would "think". Still, the more sophisticated AI becomes, the more the question brews on my mind: can machines ever become conscious? If they do, how will we differentiate between their "thoughts" and ours? Could we one day see the emergence of truly sentient AI, capable of original, independent thought? only time has this one to tell
 
 ## Managing the Future 
 
@@ -32,5 +32,5 @@ I think machines should complement human intelligence, not replace it. The goal 
 
 Ada foresaw of this age, but it's on us to decide what happens next. Will we let AI drive us, or will we use it to amplify our creativity, humanity, and intelligence? The tools to shape the future are here, but the human mind—our imagination, empathy, and critical thinking—remains primary. Just like Ada knew all along.
 
-Her dream isn't over. It's only beginning.
+Her dream isn't over. It's only beginning..
 
