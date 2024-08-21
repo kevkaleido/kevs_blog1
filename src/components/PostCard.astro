@@ -4,37 +4,41 @@ import { Image } from "astro:assets";
 import FormattedDate from "./FormattedDate.astro";
 ---
 
-<a href={`/blog/${post.slug}`} class="block">
-    <article
-        class="mx-auto overflow-hidden bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-blue-900 dark:to-indigo-950 rounded-xl border border-gray-200 dark:border-gray-700 shadow-md transition-all duration-300 hover:shadow-xl hover:scale-105"
-    >
+<a href={`/blog/${post.slug}`} class="group">
+    <article class="overflow-hidden rounded-lg shadow-lg transition-all duration-300 hover:shadow-xl bg-white dark:bg-gray-800">
         <div class="relative">
             <Image
                 src={post.data.image}
-                class="h-48 w-full object-cover"
+                class="h-64 w-full object-cover transition-transform duration-300 group-hover:scale-105"
                 width={800}
                 height={400}
                 alt={post.data.title}
             />
-            <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
-                <h2 class="text-lg sm:text-xl md:text-2xl font-bold text-white">{post.data.title}</h2>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+            <div class="absolute bottom-0 left-0 right-0 p-4">
+                <h2 class="text-xl sm:text-2xl font-bold text-white group-hover:underline">{post.data.title}</h2>
             </div>
         </div>
-        <div class="p-4">
-            <p class="mb-2 text-xs sm:text-sm text-gray-700 dark:text-gray-300">{post.data.summary}</p>
-            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between">
-                <span class="text-xs sm:text-sm font-medium text-gray-600 dark:text-gray-400 mb-2 sm:mb-0">
+        <div class="p-6">
+            <p class="mb-4 text-sm sm:text-base text-gray-600 dark:text-gray-300 line-clamp-3">{post.data.summary}</p>
+            <div class="flex items-center justify-between">
+                <span class="flex items-center text-sm font-medium text-gray-500 dark:text-gray-400">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd" />
+                    </svg>
                     <FormattedDate date={post.data.date} />
                 </span>
                 <div class="flex flex-wrap gap-2">
-                    {post.data.tags &&
-                        post.data.tags.map((tag: string) => (
-                            <span
-                                class="rounded-full bg-blue-200 dark:bg-blue-800 px-2 py-1 text-xs font-medium text-blue-800 dark:text-blue-200"
-                            >
-                                {tag}
-                            </span>
-                        ))}
+                    {post.data.tags && post.data.tags.slice(0, 2).map((tag: string) => (
+                        <span class="rounded-full bg-blue-100 px-2 py-1 text-xs font-medium text-blue-800 dark:bg-blue-900 dark:text-blue-200">
+                            {tag}
+                        </span>
+                    ))}
+                    {post.data.tags && post.data.tags.length > 2 && (
+                        <span class="rounded-full bg-gray-100 px-2 py-1 text-xs font-medium text-gray-800 dark:bg-gray-700 dark:text-gray-200">
+                            +{post.data.tags.length - 2}
+                        </span>
+                    )}
                 </div>
             </div>
         </div>
