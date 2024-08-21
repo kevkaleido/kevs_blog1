@@ -3,18 +3,27 @@ import { type CollectionEntry, getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import { Image } from "astro:assets";
 import FormattedDate from "../../components/FormattedDate.astro";
+import PostCard from "../../components/PostCard.astro";
 
 export async function getStaticPaths() {
 	const posts = await getCollection("blog");
 	return posts.map((post) => ({
 		params: { slug: post.slug },
-		props: post,
+		props: { post, posts },
 	}));
 }
-type Props = CollectionEntry<"blog">;
+type Props = {
+	post: CollectionEntry<"blog">;
+	posts: CollectionEntry<"blog">[];
+};
 
-const post = Astro.props;
+const { post, posts } = Astro.props;
 const { Content } = await post.render();
+
+// Get related posts based on tags
+const relatedPosts = posts
+	.filter((p) => p.slug !== post.slug && p.data.tags.some((tag) => post.data.tags.includes(tag)))
+	.slice(0, 3);
 ---
 
 <Layout
@@ -70,8 +79,16 @@ const { Content } = await post.render();
 	</article>
 	<div class="bg-gray-50 dark:bg-gray-900 py-8 mt-12">
 		<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-			<h2 class="text-2xl font-bold mb-4 text-gray-900 dark:text-gray-100">More posts</h2>
-			<!-- Add logic to display related posts or recent posts here -->
+			<h2 class="text-2xl font-bold mb-4 text-gray-900 dark:text-gray-100">Related posts</h2>
+			{relatedPosts.length > 0 ? (
+				<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+					{relatedPosts.map((relatedPost) => (
+						<PostCard post={relatedPost} />
+					))}
+				</div>
+			) : (
+				<p class="text-gray-600 dark:text-gray-400">No related posts found.</p>
+			)}
 		</div>
 	</div>
 </Layout>
