@@ -5,6 +5,7 @@ date: 2024-08-15
 image: "https://i.pinimg.com/564x/77/4a/29/774a29bcbc47e2ef582551145eba93e9.jpg"
 tags: ["Ada Lovelace", "AI", "Computer History", "Ethics", "Machine Learning", "Innovation",]
 ---
+<div style="text-align:center;">
 
 # From 19th Century Dreams to 21st Century Reality
 
