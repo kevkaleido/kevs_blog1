@@ -5,7 +5,7 @@ date: 2024-08-21
 image: "https://i.pinimg.com/564x/83/81/96/838196427b7a5cc55d58b1088c6e36d6.jpg"
 tags:  ["Earth", "Magnetism", "Consciousness", "Intelligence", "Planetary Science", "Speculative Science"]
 ---
-<div style=" max-width: 800px; margin: 0 auto; font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+<div style=" max-width: 95%; margin: 0 auto; font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6;">
 
 
 # Is the Earth's Magnetic Field a Planetary Mind?

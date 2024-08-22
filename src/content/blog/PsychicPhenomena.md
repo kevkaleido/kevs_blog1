@@ -5,7 +5,7 @@ image: "https://i.pinimg.com/564x/99/e6/08/99e60806102924d5f9d3f7092fd39ba9.jpg"
 tags: ["quantum physics", "consciousness", "psychic phenomena", "entanglement", "neuroscience", "parapsychology"]
 ---
 
-
+<div style=" max-width: 95%; margin: 0 auto; font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6;">
 
 # Exploring the Frontiers of Science and Consciousness
 
