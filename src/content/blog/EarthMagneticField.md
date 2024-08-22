@@ -2,7 +2,7 @@
 title: "The Earth's Magnetic Field, a Planetary Mind? "
 description: "Exploring the idea that the Earth's complex magnetic field may exhibit signs of an emergent planetary-scale intelligence or 'mind'."
 date: 2024-08-21
-image: "https://i.pinimg.com/564x/c5/a5/8c/c5a58ca6c8d6b89ccde7648d16c66952.jpg"
+image: "https://i.pinimg.com/564x/83/81/96/838196427b7a5cc55d58b1088c6e36d6.jpg"
 tags:  ["Earth", "Magnetism", "Consciousness", "Intelligence", "Planetary Science", "Speculative Science"]
 ---
 <div style="text-align:center;">

@@ -2,11 +2,12 @@
 title: "Black Holes as the Universe’s Garbage Collectors"
 description: "A mind-bending hypothesis that challenges our understanding of reality"
 date: 2024-08-21
-image: "https://i.pinimg.com/736x/d7/31/da/d731da2d94d805d4eb42e7b8a8f8eadf.jpg"
+image: "https://i.pinimg.com/564x/b9/e3/b3/b9e3b3f7374b7e355456b40c13bb2892.jpg"
 tags: ["AI", "Machine Learning", "Cosmology", "Black Holes", "Information Theory"]
 ---
 
 <div style="text-align:center;">
+
 
 ### The Cosmic Neural Network
 
