@@ -6,7 +6,7 @@ image: "https://i.pinimg.com/564x/b9/e3/b3/b9e3b3f7374b7e355456b40c13bb2892.jpg"
 tags: ["AI", "Machine Learning", "Cosmology", "Black Holes", "Information Theory"]
 ---
 
-<div style="text-align:center;">
+<div style=" max-width: 800px; margin: 0 auto; font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 
 
 ### The Cosmic Neural Network
