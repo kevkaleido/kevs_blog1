@@ -77,4 +77,4 @@ The specific combination of genes that make you uniquely you required an extraor
 **3. Historical Contingencies:**  
 Beyond biology, countless historical events influenced the circumstances of your birth. Wars, migrations, societal changes—each played roles in shaping the lives of your ancestors and, ultimately, your own. Consider, for example, the chance encounters, decisions, and even near-misses that brought your parents together. All these contingencies culminated in the moment of your conception, making your existence. 
 
-If we can contemplate the vast chain of events and precise conditions required for us to be here right now, it's nothing short of awe-inspiring
+If we can really contemplate the vast chain of events and precise conditions required for us to be here right now, it's nothing short of awe-inspiring
