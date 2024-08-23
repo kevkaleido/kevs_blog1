@@ -2,7 +2,7 @@
 title: "Black Holes as the Universe’s Garbage Collectors"
 description: "A mind-bending hypothesis that challenges our understanding of reality"
 date: 2024-08-21
-image: "https://i.pinimg.com/564x/b9/e3/b3/b9e3b3f7374b7e355456b40c13bb2892.jpg"
+image: "https://i.pinimg.com/564x/11/c3/85/11c385b2e1ccfe7db112d10ee10822e5.jpg"
 tags: ["AI", "Machine Learning", "Cosmology", "Black Holes", "Information Theory"]
 ---
 

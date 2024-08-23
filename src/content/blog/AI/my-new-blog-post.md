@@ -2,7 +2,7 @@
 title: "Our Future with Machines, how it all started"
 description: "Reflecting on Ada Lovelace's legacy as the first visionary of AI, and how her early understanding of computational potential continues to shape the future of technology.."
 date: 2024-08-15
-image: "https://i.pinimg.com/564x/77/4a/29/774a29bcbc47e2ef582551145eba93e9.jpg"
+image: "https://i.pinimg.com/564x/a8/b6/2e/a8b62e1e136ff8d2080229e2bf7de005.jpg"
 tags: ["Ada Lovelace", "AI", "Computer History", "Ethics", "Machine Learning", "Innovation",]
 ---
 <div style=" max-width: 95%; margin: 0 auto; font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6;">
