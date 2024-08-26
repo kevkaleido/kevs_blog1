@@ -39,7 +39,7 @@ This brings us to a highly speculative idea: what if consciousness and cosmic ex
 
 Building on these ideas, comes: the Cosmic Mind Theory. This theory proposes that consciousness, rather than being a mere byproduct of complex neural activity, is a fundamental force of nature that interacts with the fabric of spacetime itself. According to this idea, the collective consciousness of all sentient beings in the universe exerts a subtle but measurable effect on cosmic expansion.
 
-To be clear, there is currently no scientific evidence supporting this theory. It remains purely in the realm of speculation and should not be confused with established scientific fact. However, as a thought experiment, it offers some intriguing possibilities to consider:
+This remains purely in the realm of speculation and should not be confused with established scientific fact. However, as a thought experiment, it offers some intriguing possibilities to consider:
 
 1. If consciousness does influence cosmic expansion, we might expect to see correlations between the development of complex life and periods of accelerated expansion. Interestingly, the observed acceleration of cosmic expansion over the past few billion years roughly coincides with the time frame in which complex life could have evolved on other planets in our galaxy.
 
@@ -55,7 +55,7 @@ To be clear, there is currently no scientific evidence supporting this theory. I
 
 It's crucial to emphasize that the Cosmic Mind Theory faces numerous challenges and critiques:
 
-1. There's no known mechanism by which consciousness could interact with spacetime on a large scale.
+1. There's no known mechanism, for now, by which consciousness could interact with spacetime on a large scale.
 
 2. The theory doesn't explain how or why consciousness would arise in the first place.
 
@@ -65,10 +65,10 @@ It's crucial to emphasize that the Cosmic Mind Theory faces numerous challenges 
 
 ## Conclusion
 
-Despite these challenges, the Cosmic Mind Theory serves as a fascinating thought experiment that highlights the deep connections between consciousness, physics, and cosmology. It reminds us that there's still much we don't understand about the nature of reality and our place within it and as we continue to explore the cosmos and unravel the mysteries of the mind, we may discover connections we never imagined. The James Webb Space Telescope is peering deeper into space than ever before, potentially revealing new insights about the early universe and its expansion. Meanwhile, ambitious neuroscience projects like the BRAIN Initiative are mapping the human brain in unprecedented detail, bringing us closer to understanding the neural basis of consciousness.
+Despite these challenges, the Cosmic Mind Theory serves as a fascinating thought experiment that highlights the deep connections between consciousness, physics, and cosmology. It shows us that there's still much we don't understand about the nature of reality and our place within it and as we continue to explore the cosmos and unravel the mysteries of the mind, we may discover connections we never imagined. The James Webb Space Telescope is peering deeper into space than ever before, potentially revealing new insights about the early universe and its expansion. Meanwhile, ambitious neuroscience projects like the BRAIN Initiative are mapping the human brain in unprecedented detail, bringing us closer to understanding the neural basis of consciousness.
 
-While it's unlikely that consciousness literally shapes the expansion of the universe, the metaphorical truth of this idea is profound. Our awareness, our choices, and our actions do shape the world around us. Every thought, every discovery, every act of creation expands the universe of human experience and understanding.
+While it might seem unlikely that consciousness literally shapes the expansion of the universe, the metaphorical truth of this idea is profound. Our awareness, our choices, and our actions do shape the world around us. Every thought, every discovery, every act of creation expands the universe of human experience and understanding.
 
 As Carl Sagan once said, "We are a way for the cosmos to know itself." Whether or not our minds directly influence the expansion of space, there's no doubt that through our consciousness, the universe has developed the capacity for self-reflection and wonder.
 
-So the next time you gaze up at dawn, sunset or the night sky, ponder this: while your thoughts may not be literally pushing the stars apart, your capacity for awe and understanding is expanding the boundaries of human knowledge. And in that very real sense, consciousness is indeed shaping the universe.
+So the next time you gaze up at dawn, sunset or the night sky, ponder this: while it might seem that your thoughts may not be literally pushing the stars apart, your capacity for awe and understanding is expanding the boundaries of human knowledge. And in that very real sense, consciousness is indeed shaping the universe.
