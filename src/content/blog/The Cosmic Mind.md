@@ -1,5 +1,5 @@
 ---
-title: "The Cosmic Mind"
+title: "Consciousness And Cosmic Expansion"
 description: "Exploring the speculative connection between consciousness and cosmic expansion"
 date: 2024-08-26
 image: "https://i.pinimg.com/564x/17/85/e9/1785e9fca2d66d24096b324aae1f5849.jpg"
