@@ -17,21 +17,21 @@ Her 1843 notes on Charles Babbage's Analytical Engine were prophetic. She recogn
 
 ## The Implications 
 
-Fast forward to 2024: AI isn't a dream anymore. We've built machines that can learn, interpret, and even mimic human emotions. They can write poetry, paint masterpieces, and respond to us in ways that could make you question if it is more than just a machine. But with immense power comes an equally immense responsibility to manage this power.
+Fast forward to 2024: AI isn't a dream anymore. We've built machines that can learn, interpret, and even mimic human emotions. They can write poetry, paint masterpieces, and respond to us in ways that could make us question if it is more than just a machine. But with immense power comes an equally immense responsibility to manage this power.
 
 ### Ponderings
 
- Machines are becoming better at tasks once thought to be exclusive to humans. Data analysis, pattern recognition, and even creative fields are now infused with AI. What does that mean for employment? Will we end up with a job market where AI complements human roles or replaces them? And who is accountable when machines make life-or-death decisions? Lovelace might've pondered the machine's capacity for reasoning, but the modern dilemma is whether machines can ever truly understand morality.
+ Machines are becoming better at tasks once thought to be exclusive to humans. Data analysis, pattern recognition, and even creative fields are now infused with AI. What does that mean for employment? Are we going to end up with a job market where AI complements human roles or replaces them? And who is accountable when machines make life-or-death decisions? Lovelace might've pondered the machine's capacity for reasoning, but the modern dilemma is whether machines can ever truly understand morality.
 
 ### AI and Consciousness
 
- Lovelace never claimed machines would "think". Still, the more sophisticated AI becomes, the more the question brews on my mind: can machines ever become conscious? If they do, how will we differentiate between their "thoughts" and ours? Could we one day see the emergence of truly sentient AI, capable of original, independent thought? I guess only time has this one to tell
+ Lovelace never claimed machines would "think". Still, I bet the more sophisticated AI becomes, the more the question brews on our mind: can machines ever become conscious? If they do, how can we differentiate between their "thoughts" and ours? Could we one day see the emergence of truly sentient AI, capable of original, independent thought? I guess only time can tell
 
 ## Managing the Future 
 
 I think machines should complement human intelligence, not replace it. The goal isn't to create a future where we're redundant but one where our collaboration with AI pushes the boundaries in ways we never supposed. We also have to invest in training programs that prepare future generations for jobs that at this time don't even exist yet. However we do it. The more we integrate AI into our lives, the more crucial human creativity, empathy, and critical thinking will become—skills that no machine can truly replicate. 
 
-Ada foresaw of this age, but it's on us to decide what happens next. Will we let AI drive us, or will we use it to amplify our creativity, humanity, and intelligence? The tools to shape the future are here, but the human mind—our imagination, empathy, and critical thinking—remains primary. 
+Ada foresaw of this age, but it's on us to decide what happens next. Are we going to let AI drive us, or are we going to use it to amplify our creativity, humanity, and intelligence? The tools to shape the future are here, but the human mind—our imagination, empathy, and critical thinking—remains primary. 
 
 Her dream isn't over. It's only beginning..
 
