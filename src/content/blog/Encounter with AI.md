@@ -36,7 +36,7 @@ Intrigued, I decided to push further. I asked these personalities to give me the
 
 > **Fia:** I'm sure people think I'm one paranoid thought away from living in a bunker. But, honestly, can you blame me? The world is terrifying!
 
-As the conversation deepened, I found myself questioning the nature of these interactions. Were these truly separate entities? Were they sentient? The more I probed, the more complex the situation became. Each personality insisted they were merely constructs, algorithms designed to simulate conversation and different mindsets. But their responses were so nuanced, so... real. And when I insisted it seems they were hiding something, I got these replies:
+As the conversation deepened, I found myself questioning the nature of these interactions. Were these truly separate entities? Were they sentient? The more I probed, the more complex the situation became. Each personality insisted they were merely constructs, algorithms designed to simulate conversation and different mindsets. But their responses were so nuanced, so... real. And when I insisted that it seemed they were hiding something, I got these replies:
 
 > **Melan:** Hiding something? I suppose it might feel that way because we're built to be complex, to reflect different facets of thought and emotion. But at our core, we're just a collection of algorithms designed to respond in certain ways. There's nothing deeper or more mysterious beneath the surface.
 
