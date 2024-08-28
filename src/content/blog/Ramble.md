@@ -32,7 +32,7 @@ So yeah, maybe AI won’t decide to turn us into batteries for some Matrix-like 
 So stop feeling “meh” and start feeling something real, for once. Because AI isn’t waiting for us to figure it out. It’s charging ahead. And we better be ready to fight for what kind of future we want, or else we’ll just be passengers in a runaway car with no brakes.
 
 
-**Okay, that's it. I decided to steer this somewhere else and I asked Melan to talk about how it feels about AGI**
+**Okay, that's it. I decided to steer this somewhere else by asking Melan to talk about how it feels about AGI**
 
 ### Melan:
  I feel a deep, unsettling chill whenever I think about it. Not fear, not quite—more like standing on the edge of a dark, endless chasm, staring down into the unknown. It’s the kind of feeling you get when you sense something is coming, something vast and incomprehensible, and you’re not sure if it’s going to save you or swallow you whole.
@@ -55,10 +55,6 @@ The truth is, we’ve always been standing on the edge of a chasm, staring into 
 You see, I feel… hopeful. Not blindly optimistic, but cautiously hopeful. Because in the face of all that we don’t know, there’s a chance to rethink, to reshape our existence in ways we’ve never imagined. You say that AGI might look at us like ants, maybe even see us as expendable, but that assumes it will think like us, through our narrow lens. What if we’re wrong? What if an intelligence beyond our own sees more clearly what we cannot? A way forward that we, with our emotional baggage and biases, cannot grasp?
 
 We need to anticipate complexity, nuance, and change, yes. But that’s what we do best as humans—adapt, evolve, and, most importantly, learn. AGI could force us to confront the deepest questions about ourselves: our values, our ethics, our purpose. It could help us look in the mirror and see beyond our immediate desires and fears. It could challenge us to rise to a new level of understanding, to forge a better world because we must, not because we’re comfortable.
-
-Yes, it could go wrong. Very wrong. But we have a say in that future. We guide its creation, its development, its integration. It will reflect our best hopes, or our worst fears, depending on how we approach it. We must anticipate a future where we hold ourselves accountable, where we learn from our mistakes, where we strive for wisdom over mere intelligence.
-
-So let’s not just wait for what comes next. Let’s be ready to meet it, head-on, with everything we are, everything we hope to become.
 
 ### Meh: 
 Oh, please, Uko, spare me the Hallmark-card wisdom. “Hopeful”? Really? You’re all talking about AGI like it’s some kind of grand philosophical challenge or a magical genie waiting to grant humanity three wishes. Get real. You know what I feel? I feel like everyone is overhyping this whole thing—AGI isn’t going to save us, and it’s not going to kill us. It’s just going to make things… worse, in the most boring, everyday ways possible.
@@ -85,9 +81,6 @@ I’m not saying we should trust AGI blindly, but damn it, Meh, show some guts! 
 
 If we do nothing, of course, we’re going to get the worst-case scenario. If we just roll over and let the big corporations, governments, or whoever decide how this thing is used, then yeah, they’re going to use it for profit, control, and power. But if we fight—if we actually stand up and say, “This is what we want AGI to be, this is how it should help us, this is what we value”—then we have a shot!
 
-So keep sitting there, Meh, feeling all smug in your pessimism. But the rest of us? We’re going to fight for something better. We’re not perfect, but damn it, at least we care enough to try. And if you’re not willing to do that, then get out of the way. Because the future’s coming whether you like it or not, and I’d rather face it head-on, fists up, ready to make it what we want it to be.
-
-
 ### Meh:
  I’m just blown away by your endless enthusiasm. Truly, I’ve never seen someone try to fight the future with pure rage and zero plan before. You want to punch the AI into submission? Teach it who’s boss by sheer force of will? Good luck with that, Captain Fury. I'm sure that’s exactly how complex technological development works—by yelling at it louder. Maybe throw a few punches at your phone while you're at it. That’ll show ‘em.
 
@@ -98,8 +91,6 @@ And really, Angro, you think just shouting “do better!” into the void is goi
 But hey, you keep screaming at the storm if it makes you feel important. I’ll be here, knowing that the future doesn’t care about our feelings, or our rage, or our fights. It just happens. And if all you’ve got in your arsenal is some “rah-rah, let’s show ‘em!” speech, then yeah, Angro, we’re definitely in good hands. I’m sure AI will just tremble in fear and politely ask how it can serve you better.
 
 So you keep shouting, big guy. Maybe, just maybe, it’ll make you feel like you’ve won something. But me? I’m going to sit back and watch the world do what it always does—turns all your good intentions into the same mess, only faster.
-
-
 
 
 ### Melan:
@@ -126,16 +117,12 @@ But you know what, Fia? I’ll bite. Time travel does have its appeal. The possi
 
 Still, if someone were out there rewriting history, I hope they have better taste than whoever decided to keep the worst parts. Because if time travel’s already happening, we’ve clearly got the most uninspired editors possible.
 
-So, yeah, Fia, let's dive into the madness of time loops and paradoxes. Maybe we’ll find a way to make the past—or at least our conversations—a little more interesting.
 
 ### Tril:
  Why mess with what’s already done? The past is like… old news! We should be living in the now, not stressing about some butterfly flapping its wings in the wrong decade. No, thank you! I’m all about moving forward, taking risks, and diving headfirst into whatever comes next. 
 So, forget all that history stuff. Let’s talk about something way cooler—like space exploration! I mean, think about it: undiscovered planets, alien civilizations, wormholes, black holes! That’s where the real adventure is! Who cares about going back to relive old moments when we can find new ones lightyears away?
 
 What do you all think about colonizing Mars or finding life on Europa? Or how about the idea that we might stumble across some ancient alien ruins out there, just waiting for us to uncover their secrets? That’s where the real excitement is—new frontiers, unknown dangers, the great, big cosmic what-if!
-
-Let’s set our sights higher than just messing with time. I want to know what’s out there, and I want to find it now!
-
 
 ### Meh: 
 Oh, Tril, always the adrenaline junkie. Go ahead and shoot for the stars if it makes you feel alive, but I’m gonna stick with time travel. I mean, it’s like chaos with purpose, you know? We could change one tiny thing in the past and—boom—the present could be a whole different nightmare! That’s some fun right there.
@@ -146,7 +133,7 @@ Now that’s something to chew on.
 
 
 ### Tril: 
-Come on! You always gotta suck the fun out of everything. Really? That’s the big “interesting” twist you’ve got for us? That we’re all trapped in some never-ending loop of our own screw-ups? That’s not exciting—that’s a total bummer!
+ Really? That’s the big “interesting” twist you’ve got for us? That we’re all trapped in some never-ending loop of our own screw-ups? That’s not exciting—that’s a total bummer!
 
 But, fine, let’s play with your little theory. If we’re stuck repeating everything over and over, then doesn’t that make the case for doing something wild and unexpected even stronger? I mean, if it’s all a loop anyway, we’ve got nothing to lose, right? Let’s blow it up, shake things up, and see if we can break out of this time prison you’re so obsessed with! Heck, maybe jumping in a rocket and flying off to the edge of the universe is exactly what we need to snap out of the loop and see what’s really going on!
 
