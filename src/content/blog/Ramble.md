@@ -64,8 +64,6 @@ And let's not kid ourselves: humans don’t even agree on what "good" means, so 
 
 You want controversy? Fine. I say we’re better off without it. Keep things simple, keep things human. At least when we screw things up, we can understand why. But with AGI? We’ll just be passengers in a ride we can’t control, hoping the thing behind the wheel doesn’t decide to drive us straight off a cliff—or, worse, into a perfectly optimized, totally soulless future where every problem is “solved” by making us less human.
 
-So yeah, go ahead, embrace the uncertainty, Uko. Just don’t come crying to me when your “hopeful” AGI decides we’re the real problem and “optimizes” us out of existence.
-
 
 ### Angro: 
 I know you think you’re dropping some profound truth bombs with your cynical doomsday crap. You think we should just lie down and accept that everything’s going to get worse and we can’t do a damn thing about it? That’s lazy! That’s weak! If you want to be a passenger in life, fine, but don’t drag the rest of us down into your pit of apathy!
