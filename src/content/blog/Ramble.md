@@ -2,7 +2,7 @@
 title: "AI Ramblings"
 description: "Artificial personalities and existential questions"
 date: 2024-08-28
-image: "https://i.pinimg.com/474x/0c/05/d6/0c05d6c56c0706c0ecbc25768e516294.jpg"
+image: "https://i.pinimg.com/474x/38/5e/d7/385ed712e43c1db062f3d62f0de0b2a8.jpg"
 tags: ["AI", "AGI", "Debate", "Future Technology", "Ethical Concerns"]
 ---
 
