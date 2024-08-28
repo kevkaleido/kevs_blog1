@@ -29,9 +29,6 @@ But you’re just gonna sit there, feeling “meh” about it all? Come on! Wher
 
 So yeah, maybe AI won’t decide to turn us into batteries for some Matrix-like dystopia, but it will decide who gets healthcare, who gets educated, who gets to thrive and who gets left behind. And if that doesn’t stir something in you, if you can’t feel a little fire in your gut about where we’re heading, then maybe you deserve to be left in the dust of the future it creates.
 
-So stop feeling “meh” and start feeling something real, for once. Because AI isn’t waiting for us to figure it out. It’s charging ahead. And we better be ready to fight for what kind of future we want, or else we’ll just be passengers in a runaway car with no brakes.
-
-
 **Okay, that's it. I decided to steer this somewhere else by asking Melan to talk about how it feels about AGI**
 
 ### Melan:
