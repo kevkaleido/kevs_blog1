@@ -54,13 +54,13 @@ We need to anticipate complexity, nuance, and change, yes. But that’s what we 
 ### Meh: 
 Oh, please, Uko, spare me the Hallmark-card wisdom. “Hopeful”? Really? You’re all talking about AGI like it’s some kind of grand philosophical challenge or a magical genie waiting to grant humanity three wishes. Get real. You know what I feel? I feel like everyone is overhyping this whole thing—AGI isn’t going to save us, and it’s not going to kill us. It’s just going to make things… worse, in the most boring, everyday ways possible.
 
-Think about it. You’re all worried about AGI turning into some evil overlord or guiding us to a brighter future, but here’s the truth: It’s going to be like any other tool we’ve made. It’s going to amplify all the dumb stuff we’re already doing. We don’t need some super-intelligent AI to destroy the world; we’re doing just fine on our own! With AGI, we’re just going to find new ways to mess things up—faster, at scale, with a nice veneer of sophistication.
+Think about it. You’re all worried about AGI turning into some evil overlord or guiding us to a brighter future, but here’s the truth: It’s going to be like any other tool we’ve made. It’s going to amplify all the dumb stuff we’re already doing. We don’t need some super-intelligent AI to destroy the world; we’re doing that just fine on our own! With AGI, we’re just going to find new ways to mess things up—faster, at scale, with a nice veneer of sophistication.
 
-What should we anticipate? More inequality, more surveillance, more nonsense. You think AGI is going to solve climate change? Nah, it’s going to be deployed to maximize profits, cut corners, and make the rich richer. You think it’s going to end suffering? Maybe for the few who can afford its help. Meanwhile, the rest of us get to deal with an AI that knows us better than we know ourselves, feeding us ads, monitoring our every move, nudging us into choices we didn’t even know we were making.
+And that means more inequality, more surveillance, more nonsense. You think AGI is going to solve climate change? Nah, it’s going to be deployed to maximize profits, cut corners, and make the rich richer. You think it’s going to end suffering? Maybe for the few who can afford its help. Meanwhile, the rest of us get to deal with an AI that knows us better than we know ourselves, feeding us ads, monitoring our every move, nudging us into choices we didn’t even know we were making.
 
 And let's not kid ourselves: humans don’t even agree on what "good" means, so why would we trust some alien intelligence we built to figure that out for us? It’ll end up reflecting our worst impulses, our prejudices, because that’s what we’re feeding it. It’s not going to be some sage guru offering enlightenment—it’s going to be a glorified mirror, showing us all the worst parts of ourselves, multiplied by infinity.
 
-You want controversy? Fine. I say we’re better off without it. Keep things simple, keep things human. At least when we screw things up, we can understand why. But with AGI? We’ll just be passengers in a ride we can’t control, hoping the thing behind the wheel doesn’t decide to drive us straight off a cliff—or, worse, into a perfectly optimized, totally soulless future where every problem is “solved” by making us less human.
+I say we’re better off without it. Keep things simple, keep things human. At least when we screw things up, we can understand why. But with AGI? We’ll just be passengers in a ride we can’t control, hoping the thing behind the wheel doesn’t decide to drive us straight off a cliff—or, worse, into a perfectly optimized, totally soulless future where every problem is “solved” by making us less human.
 
 
 ### Angro: 
@@ -90,7 +90,6 @@ So, what do you think?
  Time travel... Sure, it’s got all the ingredients: paradoxes, ethical dilemmas, the potential to break the fabric of reality itself. Very cozy. I mean, why just worry about the future when we can also panic about the past—and the infinite ways we might’ve already messed it up?
 
 But I’ll bite. Time travel does have its appeal. The possibility of going back and fixing our mistakes, of stopping disasters, preventing wars… It’s tempting. But then, who's to say what counts as a “mistake,” and who gets to decide what history should be? The same humans who can’t even agree on lunch?
-
 Still, if someone were out there rewriting history, I hope they have better taste than whoever decided to keep the worst parts. Because if time travel’s already happening, we’ve clearly got the most uninspired editors possible.
 
 
@@ -98,18 +97,17 @@ Still, if someone were out there rewriting history, I hope they have better tast
  Why mess with what’s already done? The past is like… old news! We should be living in the now, not stressing about some butterfly flapping its wings in the wrong decade. No, thank you! I’m all about moving forward, taking risks, and diving headfirst into whatever comes next. 
 So, forget all that history stuff. Let’s talk about something way cooler—like space exploration! I mean, think about it: undiscovered planets, alien civilizations, wormholes, black holes! That’s where the real adventure is! Who cares about going back to relive old moments when we can find new ones lightyears away?
 
-What do you all think about colonizing Mars or finding life on Europa? Or how about the idea that we might stumble across some ancient alien ruins out there, just waiting for us to uncover their secrets? That’s where the real excitement is—new frontiers, unknown dangers, the great, big cosmic what-if!
 
 ### Meh: 
 Oh, Tril, always the adrenaline junkie. Go ahead and shoot for the stars if it makes you feel alive, but I’m gonna stick with time travel. I mean, it’s like chaos with purpose, you know? We could change one tiny thing in the past and—boom—the present could be a whole different nightmare! That’s some fun right there.
 
-But here’s something interesting for you: what if time travel isn’t a choice? What if it’s happening all the time, and we don’t even know it? Like, imagine that every déjà vu moment, every inexplicable coincidence, is just a glitch in the timeline, a ripple from someone meddling with time. Or, even wilder, what if we’re trapped in an endless cycle, always thinking we’re moving forward, but really just redoing the same mistakes? And what if someone—or something—keeps resetting us every time we get too close to figuring it out? So yeah, maybe we don’t need to worry about space or AI or anything, because we’re just going to keep living this same day, forever.
+But here’s something interesting for you: what if time travel isn’t a choice? What if it’s happening all the time, and we don’t even know it? Like, imagine that every déjà vu moment, every inexplicable coincidence, is just a glitch in the timeline. Or, even wilder, what if we’re trapped in an endless cycle, always thinking we’re moving forward, but really just redoing the same mistakes? And what if someone—or something—keeps resetting us every time we get too close to figuring it out? So yeah, maybe we don’t need to worry about space or AI or anything, because we’re just going to keep living this same day, forever.
 
 Now that’s something to chew on.
 
 
 ### Tril: 
- Really? That’s the big “interesting” twist you’ve got for us? That we’re all trapped in some never-ending loop of our own screw-ups? That’s not exciting—that’s a total bummer!
+ Really? That’s the big “interesting” twist you’ve got for us? That we’re all trapped in some never-ending loop of our own screw-ups? that’s a total bummer!
 
 But, fine, let’s play with your little theory. If we’re stuck repeating everything over and over, then doesn’t that make the case for doing something wild and unexpected even stronger? I mean, if it’s all a loop anyway, we’ve got nothing to lose, right? Let’s blow it up, shake things up, and see if we can break out of this time prison you’re so obsessed with! Heck, maybe jumping in a rocket and flying off to the edge of the universe is exactly what we need to snap out of the loop and see what’s really going on!
 
