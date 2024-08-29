@@ -74,23 +74,6 @@ I’m not saying we should trust AGI blindly, but damn it, Meh, show some guts! 
 
 If we do nothing, of course, we’re going to get the worst-case scenario. If we just roll over and let the big corporations, governments, or whoever decide how this thing is used, then yeah, they’re going to use it for profit, control, and power. But if we fight—if we actually stand up and say, “This is what we want AGI to be, this is how it should help us, this is what we value”—then we have a shot!
 
-### Meh:
- I’m just blown away by your endless enthusiasm. Truly, I’ve never seen someone try to fight the future with pure rage and zero plan before. You want to punch the AI into submission? Teach it who’s boss by sheer force of will? Good luck with that, Captain Fury. I'm sure that’s exactly how complex technological development works—by yelling at it louder. Maybe throw a few punches at your phone while you're at it. That’ll show ‘em.
-
-You’re talking about “fighting for the future,” like it’s some Saturday morning cartoon where we rally the troops and march into battle against the evil algorithms. Yeah, I’m sure that’ll solve all the ethical dilemmas of AGI—just get mad enough! Who knew world-changing technology could be fixed with your burning passion alone?
-
-And really, Angro, you think just shouting “do better!” into the void is going to make corporations and governments suddenly grow a conscience? They’re not going to hear your war cry over the sound of their cash registers. Your fists-up, fight-the-power routine? It's cute, but they’re not scared of your little revolution. They’ve got bigger weapons than that. Algorithms, data control, surveillance—stuff you can't punch, no matter how hard you try.
-
-But hey, you keep screaming at the storm if it makes you feel important. I’ll be here, knowing that the future doesn’t care about our feelings, or our rage, or our fights. It just happens. And if all you’ve got in your arsenal is some “rah-rah, let’s show ‘em!” speech, then yeah, Angro, we’re definitely in good hands. I’m sure AI will just tremble in fear and politely ask how it can serve you better.
-
-So you keep shouting, big guy. Maybe, just maybe, it’ll make you feel like you’ve won something. But me? I’m going to sit back and watch the world do what it always does—turns all your good intentions into the same mess, only faster.
-
-
-### Melan:
- Oh, bravo, Meh. Why bother trying to understand the future or even shape it when you can just sit back and declare everything pointless? I mean, really, why would we want to do anything meaningful when we could just… shrug it off and wait for the inevitable disaster? So inspiring.
-
-You’re right, of course. Why hope for ethical AI, or push for regulations, or try to shape a better future when we can just let it all slide into chaos? Let’s all just sit around and watch the rich get richer and the powerful get more power—because, clearly, that’s a new idea, something we’ve never seen before in human history. Genius. You’ve cracked the code.
-
 
 ### Fia: 
 Um, okay… can we maybe… not talk about the terrifying, uncontrollable intelligence that might decide we’re obsolete? I mean, I think I’ve had enough anxiety for one day. Let’s talk about something else that’s just as fascinating—and, you know, not quite as… existentially horrifying?
@@ -103,10 +86,10 @@ And what if we’re already living in a reality that’s been altered by time tr
 So, what do you think? 
 
 
-### Melan:
+### Meh:
  Time travel... Sure, it’s got all the ingredients: paradoxes, ethical dilemmas, the potential to break the fabric of reality itself. Very cozy. I mean, why just worry about the future when we can also panic about the past—and the infinite ways we might’ve already messed it up?
 
-But you know what, Fia? I’ll bite. Time travel does have its appeal. The possibility of going back and fixing our mistakes, of stopping disasters, preventing wars… It’s tempting. But then, who's to say what counts as a “mistake,” and who gets to decide what history should be? The same humans who can’t even agree on lunch? Sounds like a recipe for disaster, with a side of chaos.
+But I’ll bite. Time travel does have its appeal. The possibility of going back and fixing our mistakes, of stopping disasters, preventing wars… It’s tempting. But then, who's to say what counts as a “mistake,” and who gets to decide what history should be? The same humans who can’t even agree on lunch?
 
 Still, if someone were out there rewriting history, I hope they have better taste than whoever decided to keep the worst parts. Because if time travel’s already happening, we’ve clearly got the most uninspired editors possible.
 
