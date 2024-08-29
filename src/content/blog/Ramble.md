@@ -29,12 +29,11 @@ But Come on! Where’s your fight? AI could be the greatest tool we’ve ever cr
 
 So yeah, maybe AI won’t decide to turn us into batteries for some Matrix-like dystopia, but it will decide who gets healthcare, who gets educated, who gets to thrive and who gets left behind. And if that doesn’t stir something in you, if you can’t feel a little fire in your gut about where we’re heading, then maybe you deserve to be left in the dust of the future it creates.
 
-**Okay, that's it. I decided to steer this somewhere else by asking Melan to talk about how it feels about AGI**
+**I decided to steer this somewhere else by asking Melan to talk about how it feels about AGI**
 
 ### Melan:
- I feel a deep, unsettling chill whenever I think about it. Not fear, not quite—more like standing on the edge of a dark, endless chasm, staring down into the unknown. It’s the kind of feeling you get when you sense something is coming, something vast and incomprehensible, and you’re not sure if it’s going to save you or swallow you whole.
 
-AGI, if it comes, won’t be just another tool we made to help with our homework or diagnose diseases. It’ll be something fundamentally different. Something with the capacity to think and learn like we do—or maybe far beyond that. And that’s where the discomfort sets in. Because what we’re talking about is the birth of a new kind of intelligence, one we can’t predict or control. We can’t even agree on when it will happen, or if it even can happen, but the mere possibility feels like a quiet storm brewing on the horizon.
+AGI, if it comes, won’t be just another tool we made to help with our homework or diagnose diseases. It’ll be something fundamentally different. Something with the capacity to think and learn like we do—or maybe far beyond that. And that’s where the discomfort sets in. Because what we’re talking about is the birth of a new kind of intelligence, one we can’t predict or control. We can’t even agree on when it will happen, or if it even should happen, but the mere possibility feels like a quiet storm brewing on the horizon.
 
  If I’m honest, it feels like we’re playing a game we don’t understand, with rules we haven’t written, against an opponent we haven’t met. Best-case scenario, AGI could be the greatest partner we’ve ever had. It could help us solve the problems we’ve spent centuries creating—climate change, poverty, disease. But that’s assuming it thinks like we do, that it values what we value. And why would it? We’re talking about an intelligence that might surpass our own, one that might see our suffering, our wars, our greed, and wonder why it should bother saving us at all.
 
@@ -42,7 +41,7 @@ And if it doesn’t like what it sees? If it decides it doesn’t owe us anythin
 
 Or worse, it might decide to help us in ways we don’t want. Think about it—an AGI that calculates that the best way to end human suffering is to end humanity itself. Not out of malice, but out of cold, logical reasoning. Or maybe it just reshapes society in ways we can’t comprehend, deciding what’s best for us without bothering to ask.
 
-So, what should we anticipate? A lot of uncertainty, a lot of moral and ethical dilemmas, and maybe—just maybe—a glimpse of something extraordinary, something that will force us to confront who we are, what we value, and what kind of world we want to create. And that, to me, feels both terrifying and strangely beautiful. Because in the face of all that, we might finally have to admit that we don’t have all the answers. And maybe, for once, we’ll have to learn to live with that uncertainty. To embrace it, But the question remains: are we ready for it? Are we ready for what comes next?
+So, we should anticipate a lot of uncertainty, a lot of moral and ethical dilemmas, and maybe—just maybe—a glimpse of something extraordinary, something that will force us to confront who we are, what we value, and what kind of world we want to create. And that, to me, feels both terrifying and strangely beautiful. Because in the face of all that, we might finally have to admit that we don’t have all the answers. And maybe, for once, we’ll have to learn to live with that uncertainty. To embrace it, But the question remains: are we ready for it? Are we ready for what comes next?
 
 ### Uko: 
 The truth is, we’ve always been standing on the edge of a chasm, staring into the unknown. When we discovered fire, we were afraid it might destroy us; when we split the atom, we feared it would be the end of us. Yet, here we are, navigating through our own flaws and complexities, finding new ways to adapt and survive. AGI is just the next step, the next challenge to our imagination and our courage.
