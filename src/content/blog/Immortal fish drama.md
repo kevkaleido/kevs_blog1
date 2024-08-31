@@ -34,8 +34,7 @@ When it faces mortal peril, it simply... reverses its life cycle! It becomes you
 
 *His voice rises to a fevered pitch, each word dripping with fervor.*
 
-What insolence! The audacity to refuse the natural order, to live in a cycle of eternal youth while the rest of us age and wither away! Is it a blessing or a curse? A gift from the heavens or a mockery of the gods themselves?
-And so, I ask you, what will you do with this knowledge? Will you envy this jellyfish's ageless dance, or will you embrace the tragedy of our finite existence, where every heartbeat is a precious drop of time? 
+What insolence! The audacity to refuse the natural order, to live in a cycle of eternal youth while the rest of us age and wither away! And so, I ask you, what will you do with this knowledge? Will you envy this jellyfish's ageless dance, or will you embrace the tragedy of our finite existence, where every heartbeat is a precious drop of time? 
 
 *He bows dramatically, the spotlight fades, and the stage is left in utter silence.*
 
