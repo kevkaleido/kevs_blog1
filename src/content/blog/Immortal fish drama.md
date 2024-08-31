@@ -56,7 +56,7 @@ Immortality, my friends, is a curse far greater than death. For what is life wit
 
 *His voice takes on a gentle, almost sad smile.*
 
-Perhaps it is the pangolin who knows the truth. That to be fully alive, we must be willing to curl up, to protect ourselves, and sometimes... to lose. For in the losing, there is meaning, and in meaning, there is life.
+Perhaps it is the pangolin who knows the truth. That to be fully alive, we must be willing to protect ourselves, and sometimes... to lose. For in the losing, there is meaning, and in meaning, there is life.
 
 *He steps back into the shadows, his figure fading into the darkness, leaving only his words lingering in the quiet.*
 
