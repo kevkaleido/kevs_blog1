@@ -40,6 +40,33 @@ const {
 		<meta name="twitter:title" content={title} />
 		<meta name="twitter:description" content={description} />
 		<meta property="twitter:image" content={image} />
+
+		<script is:inline>
+			function loadGiscus() {
+				const theme = localStorage.getItem('theme') === 'dark' ? 'dark' : 'light';
+				const script = document.createElement('script');
+				script.src = 'https://giscus.app/client.js';
+				script.setAttribute('data-repo', '[ENTER YOUR REPO HERE]');
+				script.setAttribute('data-repo-id', '[ENTER YOUR REPO ID HERE]');
+				script.setAttribute('data-category', '[ENTER CATEGORY NAME HERE]');
+				script.setAttribute('data-category-id', '[ENTER CATEGORY ID HERE]');
+				script.setAttribute('data-mapping', 'pathname');
+				script.setAttribute('data-strict', '0');
+				script.setAttribute('data-reactions-enabled', '1');
+				script.setAttribute('data-emit-metadata', '0');
+				script.setAttribute('data-input-position', 'bottom');
+				script.setAttribute('data-theme', theme);
+				script.setAttribute('data-lang', 'en');
+				script.setAttribute('crossorigin', 'anonymous');
+				script.async = true;
+
+				const comments = document.getElementById('comments');
+				if (comments) comments.appendChild(script);
+			}
+
+			// Load Giscus after the page has loaded
+			window.addEventListener('load', loadGiscus);
+		</script>
 	</head>
 	<body
 		class="bg-gradient-to-b from-blue-100 via-white to-green-100 dark:bg-gradient-to-b dark:from-gray-800 dark:via-gray-700 dark:to-gray-800 text-gray-900 dark:text-gray-100 antialiased"
