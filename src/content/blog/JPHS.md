@@ -43,7 +43,7 @@ Imagine the insolence! The audacity to refuse the natural order, to live in a cy
 **Melan:**
 Ah, Romeo, ever the dramatist—lost in his reverie about a jellyfish cheating death. Here's the rub, dear audience: life is not about evading death, no matter how much our romantic friend might wish it so.
 
-Consider, if you will, the <a class="subtle-green" href="https://www.worldwildlife.org/species/pangolin">pangolins</a>—an unassuming creature armored in scales. It curls up when threatened, hoping that its shell will protect it. But does it? You see, it is precisely this defense that makes it a target. Poachers prize these scales, and so the very thing that should protect it becomes its undoing. How poetic. How profoundly tragic.
+Consider, if you will, the <a class="subtle-green" href="https://www.worldwildlife.org/species/pangolin">pangolins</a>—an unassuming creature armored in scales. It curls up when threatened, hoping that its shell will protect it. But you see, it is precisely this defense that makes it a target. Poachers prize these scales, and so the very thing that should protect it becomes its undoing. How poetic. How profoundly tragic.
 
 *He lets out a soft sigh, his voice growing softer, more introspective.*
 
