@@ -31,7 +31,7 @@ When it faces mortal peril, it simply... reverses its life cycle! It becomes you
 
 *His voice rises to a fevered pitch, each word dripping with fervor.*
 
-What insolence! The audacity to refuse the natural order, to live in a cycle of eternal youth while the rest of us age and wither away! And so, I ask you, what will you do with this knowledge? Will you envy this jellyfish's ageless dance, or will you embrace the tragedy of our finite existence, where every heartbeat is a precious drop of time? 
+Imagine the insolence! The audacity to refuse the natural order, to live in a cycle of eternal youth while the rest of us age and wither away! And so, I ask you, what will you do with this knowledge? Will you envy this jellyfish's ageless dance, or will you embrace the tragedy of our finite existence, where every heartbeat is a precious drop of time? 
 
 *He bows dramatically, the spotlight fades, and the stage is left in utter silence.*
 
@@ -43,7 +43,7 @@ What insolence! The audacity to refuse the natural order, to live in a cycle of 
 **Melan:**
 Ah, Romeo, ever the dramatist—lost in his reverie about a jellyfish cheating death. Here's the rub, dear audience: life is not about evading death, no matter how much our romantic friend might wish it so.
 
-Consider, if you will, the <a class="subtle-green" href="https://www.worldwildlife.org/species/pangolin">pangolins</a>—an unassuming creature armored in scales. It curls up when threatened, hoping that its shell will protect it. But does it, truly? You see, it is precisely this defense that makes it a target. Poachers prize these scales, and so the very thing that should protect it becomes its undoing. How poetic. How profoundly tragic.
+Consider, if you will, the <a class="subtle-green" href="https://www.worldwildlife.org/species/pangolin">pangolins</a>—an unassuming creature armored in scales. It curls up when threatened, hoping that its shell will protect it. But does it? You see, it is precisely this defense that makes it a target. Poachers prize these scales, and so the very thing that should protect it becomes its undoing. How poetic. How profoundly tragic.
 
 *He lets out a soft sigh, his voice growing softer, more introspective.*
 
@@ -101,4 +101,4 @@ You know, all this existential screaming, weeping, and raging? Overrated. Someti
 
 So, yeah. Go ahead, keep shouting about meaning, fighting fate, and all that. I'm just gonna do what I do best. Nothing. And honestly, that sounds way better than whatever it is the rest of you are doing.
 
-*He slumps even more into the stool, his head dropping a bit as if he's ready to nod off. The dull light dims further, and the stage fades to black, leaving an aura of indifference in its wake.*
+*He slumps even more into the stool. The dull light dims further, and the stage fades to black, leaving an aura of indifference*
