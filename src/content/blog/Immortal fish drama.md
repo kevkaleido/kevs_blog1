@@ -1,7 +1,7 @@
 ---
 title: "Dramatic Monologues"
 description: "A series of dramatic monologues exploring life's meaning"
-date: 2024-08-27
+date: 2024-08-31
 image: "https://i.pinimg.com/originals/1e/5c/65/1e5c65110d0a7654835a289c6e09aff8.gif"
 tags: ["Drama", "Philosophy", "Monologues", "Animals", "Existentialism", "Metaphor", "Theater", "Nature"]
 ---
