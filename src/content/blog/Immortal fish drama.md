@@ -22,7 +22,7 @@ tags: ["Drama", "Philosophy", "Monologues", "Animals", "Existentialism", "Metaph
 
 
 
-*A dark, empty stage. A single spotlight suddenly illuminates, revealing Romeo standing with his hand on his heart, his eyes closed in deep contemplation. He speaks with intensity and flourish.*
+*In a dark, empty stage. A single spotlight suddenly illuminates, revealing Romeo standing with his hand on his heart, his eyes closed in deep contemplation. He speaks with intensity and flourish.*
 
 **Romeo:**
 In the vast cosmos, there exists a creature more bizarre than any poet's fevered dream! Listen closely, for this tale shall haunt you with its dreadful, undeniable truth!
