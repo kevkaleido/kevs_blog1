@@ -85,7 +85,6 @@ So take your melancholic musings and your romantic ideals and shove 'em. Because
 *The stage is now bathed in a dull, greyish light. A single stool sits in the middle. Meh slowly shuffles onto the stage, his expression blank and shoulders slumped. He drags himself to the stool, sits down, and stares blankly ahead for a few seconds before speaking in a monotone voice.*
 
 **Meh:**
-
 Yeah, okay. So we got Romeo swooning over immortal jelly blobs, Melan getting all weepy over a scaly ball, and Angro... being Angro about some furry murder machine. Real exciting stuff, guys. Really. Riveting.
 
 *He shrugs lazily, looking completely unimpressed.*
