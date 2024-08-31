@@ -29,7 +29,7 @@ A series of  dramatic monologues where each character presents a different persp
 
 **Romeo:**
 In the vast cosmos, there exists a creature more bizarre than any poet's fevered dream! Listen closely, for this tale shall haunt you with its dreadful, undeniable truth!
-There is a <a class="subtle-green" href="https://en.wikipedia.org/wiki/Turritopsis_dohrnii">jellyfish</a> called Turritopsis dohrnii, a creature both wretched and wondrous! And this tiny marvel possesses the power to defy the most relentless of foes: death itself!
+There is a <a class="subtle-green" href="https://en.wikipedia.org/wiki/Turritopsis_dohrnii">jellyfish</a> also known as the immortal jellyfish, a creature both wretched and wondrous! And this tiny marvel possesses the power to defy the most relentless of foes: death itself!
 When it faces mortal peril, it simply... reverses its life cycle! It becomes young again! Taunting fate with every pulse of its immortal being!
 
 *His voice rises to a fevered pitch, each word dripping with fervor.*
