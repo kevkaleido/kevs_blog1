@@ -21,7 +21,7 @@ tags: ["Drama", "Philosophy", "Monologues", "Animals", "Existentialism", "Metaph
 <div style=" max-width: 95%; margin: 0 auto; font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6;"> 
 
 
-A series of  monologues exploring life's meaning through the lens of animal characteristics. Each character presents a different perspective, using animals as metaphors for experiences and attitudes.
+A series of  dramatic monologues where each character presents a different perspective, using animals as metaphors for experiences and attitudes.
 
 ## The jellyfish, the pangolin, the honey badger and the sloth
 
