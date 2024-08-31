@@ -61,6 +61,7 @@ Perhaps it is the pangolin who knows the truth. That to be fully alive, we must 
 *He steps back into the shadows, his figure fading into the darkness, leaving only his words lingering in the quiet.*
 
 ---
+
 *The stage is suddenly engulfed in a fiery red glow. A burst of electric guitar shreds through the silence. Angro storms onto the stage with a swagger, his eyes blazing, his fists clenched. He paces like a caged animal, then stops dead center, and bellows with a gravelly, commanding voice.*
 
 **Angro:**
@@ -72,7 +73,7 @@ Honey badger is nature's middle finger to the concept of fear! And you, Fia—ye
 
 *He paces again, his voice now a low, menacing growl.*
 
-You want to talk about life? REAL life? It's not some delicate dance with death, or some endless loop of jellyfish reincarnation. It's blood, it's teeth, it's guts and glory! It's standing your ground against a world that wants to tear you apart and saying, "Not today!"
+You want to talk about life? REAL life? It's blood, it's teeth, it's guts and glory! It's standing your ground against a world that wants to tear you apart and saying, "Not today!"
 
 *He leans forward, almost snarling, his voice now a deadly whisper.*
 
@@ -85,7 +86,7 @@ So take your melancholic musings and your romantic ideals and shove 'em. Because
 *The stage is now bathed in a dull, greyish light. A single stool sits in the middle. Meh slowly shuffles onto the stage, his expression blank and shoulders slumped. He drags himself to the stool, sits down, and stares blankly ahead for a few seconds before speaking in a monotone voice.*
 
 **Meh:**
-Yeah, okay. So we got Romeo swooning over immortal jelly blobs, Melan getting all weepy over a scaly ball, and Angro... being Angro about some furry murder machine. Real exciting stuff, guys. Really. Riveting.
+Yeah, okay. So we got Romeo swooning over immortal jelly blobs, Melan getting all weepy over a scaly ball, and Angro... being angry about some furry murder machine. Real exciting stuff, guys. Really. Riveting.
 
 *He shrugs lazily, looking completely unimpressed.*
 
@@ -95,10 +96,6 @@ But let's talk about something actually... I dunno, real. Ever heard of the <a c
 
 While you guys are out here glorifying raging, dying, and whatever the hell else, the sloth's like, "Nah, I'm good." Why get all worked up about life and death when you can just chill? I mean, they only come down from their trees like once a week to poop. Once a week. That's efficiency right there. You ever seen a sloth stressed out? Didn't think so.
 
-*He leans back on the stool, his voice even more deadpan, almost bored.*
-
-Sloths are so slow, algae literally grows on them. You wanna talk about not caring? That's a new level of "meh." They've become their own little ecosystems. They're just... hanging out and covered in moss. That's the dream right there.
-
 *He lifts a hand lazily as if to emphasize his point but can't even be bothered to do it with any energy.*
 
 You know, all this existential screaming, weeping, and raging? Overrated. Sometimes, you just gotta accept that life is slow and full of moss. The sloth gets it. No drama, no existential crisis, no fight to the death. Just... vibes.
@@ -107,4 +104,4 @@ You know, all this existential screaming, weeping, and raging? Overrated. Someti
 
 So, yeah. Go ahead, keep shouting about meaning, fighting fate, and all that. I'm just gonna do what I do best. Nothing. And honestly, that sounds way better than whatever it is the rest of you are doing.
 
-*He slumps even more into the stool, his head dropping a bit as if he's ready to nod off. The dull light dims further, and the stage fades to black, leaving an aura of pure indifference in its wake.*
+*He slumps even more into the stool, his head dropping a bit as if he's ready to nod off. The dull light dims further, and the stage fades to black, leaving an aura of indifference in its wake.*
