@@ -32,23 +32,13 @@ A series of  monologues exploring life's meaning through the lens of animal char
 **Romeo:**
 In the vast cosmos, there exists a creature more bizarre than any poet's fevered dream! Listen closely, for this tale shall haunt you with its dreadful, undeniable truth!
 
-*He opens his eyes wide, a look of dramatic revelation dawning upon him.*
-
-There is a <a class="subtle-green" href="https://en.wikipedia.org/wiki/Turritopsis_dohrnii">jellyfish</a> called Turritopsis dohrnii, a creature both wretched and wondrous! And this tiny marvel possesses the power to defy that most relentless of foes: death itself!
-
-*He gasps, placing his hand to his chest, almost fainting with the weight of this revelation.*
+There is a <a class="subtle-green" href="https://en.wikipedia.org/wiki/Turritopsis_dohrnii">jellyfish</a> called Turritopsis dohrnii, a creature both wretched and wondrous! And this tiny marvel possesses the power to defy the most relentless of foes: death itself!
 
 When it faces mortal peril, it simply... reverses its life cycle! It becomes young again! Taunting fate with every pulse of its immortal being!
 
 *His voice rises to a fevered pitch, each word dripping with fervor.*
 
 What insolence! The audacity to refuse the natural order, to live in a cycle of eternal youth while the rest of us age and wither away! Is it a blessing or a curse? A gift from the heavens or a mockery of the gods themselves?
-
-*He pauses, allowing the gravity of his words to settle over the audience like a foreboding mist.*
-
-This is reality—a reality so strange, it could only be conceived by a universe that delights in the grotesque and the grand!
-
-*With a final flourish, he extends his arms wide, his face aglow with manic delight.*
 
 And so, I ask you, my beloved spectators—what will you do with this knowledge? Will you envy this jellyfish's ageless dance, or will you embrace the tragedy of our finite existence, where every heartbeat is a precious drop of time? The choice, my friends, is yours!
 
@@ -62,16 +52,11 @@ And so, I ask you, my beloved spectators—what will you do with this knowledge?
 **Melan:**
 Ah, Romeo, ever the dramatist—lost in his reverie about a jellyfish cheating death. Here's the rub, dear audience: life is not about evading death, no matter how much our romantic friend might wish it so.
 
-*He pauses, looking up, his eyes somber and reflective.*
-
 Consider, if you will, the <a class="subtle-green" href="https://www.worldwildlife.org/species/pangolin">pangolins</a>—an unassuming creature armored in scales. It curls up when threatened, hoping that its shell will protect it. But does it, truly? You see, it is precisely this defense that makes it a target. Poachers prize these scales, and so the very thing that should protect it becomes its undoing. How poetic. How profoundly tragic.
 
 *He lets out a soft sigh, his voice growing softer, more introspective.*
 
 The pangolin—trapped in a cruel irony—teaches us a lesson that Romeo's immortal jellyfish could never grasp: to live is to be vulnerable. It is the acceptance of our fragility that makes us... human.
-
-*He turns slightly, his gaze far away, his tone almost wistful.*
-
 Immortality, my friends, is a curse far greater than death. For what is life without the ticking clock, without the shadow of the end looming over us, urging us to savor every moment? 
 
 *His voice takes on a gentle, almost sad smile.*
@@ -86,11 +71,7 @@ Perhaps it is the pangolin who knows the truth. That to be fully alive, we must 
 **Angro:**
 Oh, spare me the sob story, Melan! Enough of your endless whining about the beauty of vulnerability and the pangolin's tragic irony! Let's cut through the poetic crap and talk about the real freaks of nature—the angriest, most hardcore, bat-crap-crazy beasts to ever roam this planet!
 
-*He jabs a finger at the audience, his voice dripping with intensity.*
-
 I'm talking about the <a class="subtle-green" href="https://animals.sandiegozoo.org/animals/honey-badger-ratel">honey badger!</a> Yeah, you heard me! The nastiest piece of work in the animal kingdom. This little psycho doesn't give a damn about death, romance, or your philosophical nonsense. It takes on lions, cobras, and anything else dumb enough to cross its path.
-
-*He spreads his arms wide, as if daring the world itself to challenge him, his voice rising like thunder.*
 
 Honey badger is nature's middle finger to the concept of fear! And you, Fia—yeah, I see you trembling over there—should take notes. Maybe then you'd stop hiding in the shadows of your own neuroses!
 
@@ -106,15 +87,13 @@ You want to talk about life? REAL life? It's not some delicate dance with death,
 
 So take your melancholic musings and your romantic ideals and shove 'em. Because when the chips are down, it's not about who waxed philosophical or who cheated death—it's about who fought. Who raged. Who refused to back down.
 
-*He throws his arms wide, roaring to the heavens.*
-
 Be the damn honey badger of your own life! Fear nothing, take no crap, and never, EVER go quietly!
 
 *He storms off the stage, leaving behind silence filled with raw, untamed energy.*
 
 ---
 
-*Scene: The stage is now bathed in a dull, greyish light. A single stool sits in the middle. Meh slowly shuffles onto the stage, his expression blank and shoulders slumped. He drags himself to the stool, sits down, and stares blankly ahead for a few seconds before speaking in a monotone voice.*
+*The stage is now bathed in a dull, greyish light. A single stool sits in the middle. Meh slowly shuffles onto the stage, his expression blank and shoulders slumped. He drags himself to the stool, sits down, and stares blankly ahead for a few seconds before speaking in a monotone voice.*
 
 **Meh:**
 
