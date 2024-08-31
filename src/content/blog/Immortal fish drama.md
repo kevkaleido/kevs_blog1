@@ -94,6 +94,7 @@ But let's talk about something actually... I dunno, real. Ever heard of the <a c
 *He pauses to yawn, stretching like he might just fall asleep mid-sentence.*
 
 While you guys are out here glorifying raging, dying, and whatever the hell else, the sloth's like, "Nah, I'm good." Why get all worked up about life and death when you can just chill? I mean, they only come down from their trees like once a week to poop. Once a week. That's efficiency right there. You ever seen a sloth stressed out? Didn't think so.
+And sloths are so slow, algae literally grows on them. You wanna talk about not caring? That’s a new level of “meh.” They’ve become their own little ecosystems. They’re just... hanging out and covered in moss. That’s the dream right there.
 
 *He lifts a hand lazily as if to emphasize his point but can't even be bothered to do it with any energy.*
 
