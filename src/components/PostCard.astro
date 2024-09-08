@@ -9,18 +9,18 @@ import FormattedDate from "./FormattedDate.astro";
         <div class="relative">
             <Image
                 src={post.data.image}
-                class="h-64 w-full object-cover transition-transform duration-300 group-hover:scale-105"
-                width={800}
-                height={400}
+                class="h-48 w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                width={600}
+                height={300}
                 alt={post.data.title}
             />
             <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-            <div class="absolute bottom-0 left-0 right-0 p-4">
-                <h2 class="text-xl sm:text-2xl font-bold text-white group-hover:underline">{post.data.title}</h2>
+            <div class="absolute bottom-0 left-0 right-0 p-3">
+                <h2 class="text-lg sm:text-xl font-bold text-white group-hover:underline">{post.data.title}</h2>
             </div>
         </div>
-        <div class="p-6">
-            <p class="mb-4 text-sm sm:text-base text-gray-600 dark:text-gray-300 line-clamp-3">{post.data.summary}</p>
+        <div class="p-4">
+            <p class="mb-3 text-sm text-gray-600 dark:text-gray-300 line-clamp-2">{post.data.summary}</p>
             <div class="flex items-center justify-between">
                 <span class="flex items-center text-sm font-medium text-gray-500 dark:text-gray-400">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
