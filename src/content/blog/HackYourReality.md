@@ -43,7 +43,7 @@ The good news is that you have admin access. Want a better output? Feed your net
 
 ## Your Thoughts as NFTs!
 
-Here's where it gets even cooler: think of each thought as an NFT (Non-Fungible Token). Every thought is unique, carries value, and has the power to create a ripple effect in your reality. You're minting these NFTs every single day with your mental focus. The question is, are you minting high-vibe, rare pieces of art, or low-quality junk that nobody wants?
+Think of each thought as an NFT (Non-Fungible Token). Every thought is unique, carries value, and has the power to create a ripple effect in your reality. You're minting these NFTs every single day with your mental focus. The question is, are you minting high-vibe, rare pieces of art, or low-quality junk that nobody wants?
 
 When you consciously choose thoughts that are abundant, loving, and expansive, you mint a collection of high-value reality experiences. Your mind is the marketplace, and the universe is the buyer. Make it a collection worth investing in!
 
@@ -59,9 +59,9 @@ Imagine if a whole bunch of us started hacking our realities together. We're tal
 
 We can crowdsource new paradigms of living, where cooperation trumps competition, abundance replaces scarcity, and love becomes the default operating system. When you level up, we all level up.
 
-## Final Boss Fight: Trust the Process
+## Trust the Process
 
-Every great game has a final boss. The ultimate challenge is learning to *trust*—trust yourself, trust your inner guidance, trust that the universe's code is always running in your favor, even when it doesn't look like it. Trust the process, because every plot twist and every glitch is just another level to master.
+The ultimate challenge is learning to *trust*—trust yourself, trust your inner guidance, trust that the universe's code is always running in your favor, even when it doesn't look like it. Trust the process, because every plot twist and every glitch is just another level to master.
 
 So, there it is. Reality hacking is more than just a concept—it's an art, a game, a science, and a bit of alchemy all rolled into one. And you have the controller in your hands.
 
