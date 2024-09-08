@@ -2,7 +2,7 @@
 title: "The jellyfish, the pangolin, the honey badger and the sloth"
 description: "A series of dramatic monologues exploring life's meaning"
 date: 2024-08-31
-image: "https://i.pinimg.com/originals/1e/5c/65/1e5c65110d0a7654835a289c6e09aff8.gif"
+image: "https://i.pinimg.com/736x/7f/0d/fa/7f0dfa10e339cf0e65c8a21bc8cb0aa0.jpg"
 tags: ["Drama", "Philosophy", "Monologues", "Animals", "Existentialism", "Metaphor", "Theater", "Nature"]
 ---
 
@@ -25,7 +25,7 @@ tags: ["Drama", "Philosophy", "Monologues", "Animals", "Existentialism", "Metaph
 *In a dark, empty stage. A single spotlight suddenly illuminates, revealing Romeo standing with his hand on his heart, his eyes closed in deep contemplation. He speaks with intensity and flourish.*
 
 **Romeo:**
-In the vast cosmos, there exists a creature more bizarre than any poet's fevered dream! Listen closely, for this tale shall haunt you with its dreadful, undeniable truth!
+ There exists a creature more bizarre than any poet's fevered dream! Listen closely, for this tale shall haunt you with its dreadful, undeniable truth!
 There is a <a class="subtle-green" href="https://en.wikipedia.org/wiki/Turritopsis_dohrnii">jellyfish</a> also known as the immortal jellyfish, a creature both wretched and wondrous! And this tiny marvel possesses the power to defy the most relentless of foes: death itself!
 When it faces mortal peril, it simply... reverses its life cycle! It becomes young again! Taunting fate with every pulse of its immortal being!
 
