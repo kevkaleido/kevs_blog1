@@ -12,7 +12,7 @@ const posts = (await getCollection('blog')).sort(
 <Layout title='Home'>
   <Greetings />
   <section class="mt-16">
-    <h2 class="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 text-center text-white bg-gradient-to-r from-blue-500 to-green-500 p-2 rounded-lg">Latest Blog Posts</h2>
+    <h2 class="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 text-center text-white bg-gradient-to-r from-blue-500 to-green-500 p-2 rounded-lg">Recent</h2>
     <div class="grid gap-4 sm:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
       {posts.slice(0, 4).map((post) => <PostCard post={post} />)}
     </div>
